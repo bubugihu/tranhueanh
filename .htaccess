@@ -1,0 +1,6 @@
+
+<IfModule mod_rewrite.c>
+  <FilesMatch "^DBB1F4A9FA52EBE840FB3A425DDB3EE9\.txt$">
+    AddType text/plain .txt
+  </FilesMatch>
+</IfModule>
