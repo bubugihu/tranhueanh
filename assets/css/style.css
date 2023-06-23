@@ -541,7 +541,7 @@ section {
 
 .resume .resume-item h4 {
   line-height: 18px;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
@@ -550,7 +550,7 @@ section {
 }
 
 .resume .resume-item h5 {
-  font-size: 16px;
+  font-size: 14px;
   background: #f7f8f9;
   padding: 5px 15px;
   display: inline-block;
@@ -558,6 +558,9 @@ section {
   margin-bottom: 10px;
 }
 
+p{
+  font-size: 14px;
+}
 .resume .resume-item ul {
   padding-left: 20px;
 }
